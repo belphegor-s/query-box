@@ -1,6 +1,6 @@
 # Query Box
 
-A fully functional Stackoverflow clone developed for a smaller community discussions and QnA platform
+A fully functional StackOverflow clone developed for a smaller community discussions and QnA platform
 
 ## Setup
 
