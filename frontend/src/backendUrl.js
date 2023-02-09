@@ -1,3 +1,3 @@
-const backendUrl = "https://query-box.netlify.app/";
+const backendUrl = "https://query-box-server-r7zb.onrender.com";
 
 export default backendUrl;
