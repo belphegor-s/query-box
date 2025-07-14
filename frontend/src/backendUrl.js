@@ -1,3 +1,3 @@
-const backendUrl = "https://query-box-server-r7zb.onrender.com";
+const backendUrl = "https://coolify.ayushsharma.me/querybox/backend";
 
 export default backendUrl;
