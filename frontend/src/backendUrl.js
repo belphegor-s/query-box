@@ -1,3 +1,3 @@
-const backendUrl = "https://coolify.ayushsharma.me/querybox/backend";
+const backendUrl = "https://querybox-backend.coolify.ayushsharma.me";
 
 export default backendUrl;
